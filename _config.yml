@@ -1,0 +1,6 @@
+title: Unbound North
+description: Travelling slowly with two rescue dogs and a caravan
+
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-remote-theme
