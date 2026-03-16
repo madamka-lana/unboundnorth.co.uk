@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Caravan adventures
+title: About
 permalink: /about/
 ---
 
-Caravan adventures
+## About Unbound North
+
+Unbound North is a simple journal of our caravan adventures.
