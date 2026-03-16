@@ -1,6 +1,6 @@
 title: Unbound North
 description: Caravan adventures
 
-remote_theme: mmistakes/minimal-mistakes
+theme: minimal
 plugins:
-  - jekyll-remote-theme
+  - jekyll-paginate
