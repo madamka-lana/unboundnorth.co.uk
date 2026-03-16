@@ -1,0 +1,5 @@
+---
+layout: home
+---
+
+Caravan adventures
