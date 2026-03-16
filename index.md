@@ -1,10 +1,5 @@
----
-layout: home
-title: Unbound North
----
+![Unbound North logo](/assets/logo.jpg)
 
 ## Caravan adventures
 
 Welcome to Unbound North.
-
-This is where we share our adventures and places we discover.
