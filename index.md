@@ -1,5 +1,6 @@
-![Unbound North logo](/assets/north.png)
-
-## Caravan adventures
+---
+layout: home
+title: Unbound North
+---
 
 Welcome to Unbound North.
