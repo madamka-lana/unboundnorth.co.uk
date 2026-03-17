@@ -6,4 +6,4 @@ After taking early retirement last year, the idea of exploring in a different wa
 
 In March 2026 we began a new chapter, planning our future adventures in our very first caravan.  
 
-A new journey, with paws on the road and tails in the wind. 🐾🚐
+A new journey, with paws on the road and tails in the wind.🐾📍
