@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Caravan
+title: caravan
 ---
 
 Bailey Pegasus Grande Rimini 2019.
