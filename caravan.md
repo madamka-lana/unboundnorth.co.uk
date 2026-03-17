@@ -1,6 +1,7 @@
 ---
 layout: page
-title: caravan
+title: Caravan
+permalink: /caravan/
 ---
 
-Bailey Pegasus Grande Rimini 2019.
+Bailey Pegasus Grande Rimini content here.
