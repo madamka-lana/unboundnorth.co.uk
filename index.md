@@ -1,4 +1,4 @@
-![Unbound North logo](/assets/logo.jpg)
+![Unbound North logo](/assets/NORTH.png)
 
 ## Caravan adventures
 
