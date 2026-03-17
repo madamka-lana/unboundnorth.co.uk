@@ -20,14 +20,26 @@ layout: default
   <!-- Navigation images (no titles, smaller, minimal) -->
   <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:15px; margin-top:30px;">
 
-    <a href="/caravan/" style="transition: transform 0.2s;">
-      <img src="/assets/nav/caravan.jpg" alt="Caravan" style="width:140px; height:auto; border-radius:6px;">
+    <a href="/caravan/">
+      <img src="/assets/nav/caravan.jpg" alt="Caravan" class="nav-img">
     </a>
 
-    <a href="/2026/" style="transition: transform 0.2s;">
-      <img src="/assets/nav/2026.jpg" alt="2026" style="width:140px; height:auto; border-radius:6px;">
+    <a href="/2026/">
+      <img src="/assets/nav/2026.jpg" alt="2026" class="nav-img">
     </a>
 
   </div>
 
 </div>
+
+<!-- Hover effect -->
+<style>
+  .nav-img {
+    width: 140px;
+    height: auto;
+    border-radius: 6px;
+    transition: transform 0.2s;
+  }
+
+  .nav-img:hover {
+    transform:
