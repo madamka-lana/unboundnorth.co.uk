@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>{{ page.title }}</title>
+
+  <!-- Modern font -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Inter', sans-serif;
+      background: #ffffff;
+      color: #222;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+
+    .header-small {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 15px 20px;
+      border-bottom: 1px solid #eee;
+    }
+
+    .header-small img {
+      height: 35px;
+    }
+
+    .nav a {
+      margin-left: 20px;
+      text-decoration: none;
+      color: #333;
+      font-size: 14px;
+    }
+
+    .nav a:hover {
+      opacity: 0.6;
+    }
+  </style>
+</head>
+
+<body>
+
+  {% unless page.layout == "home" %}
+  <div class="header-small">
+    <a href="/">
+      <img src="/assets/north.png" alt="Unbound North">
+    </a>
+    <div class="nav">
+      <a href="/about/">About</a>
+    </div>
+  </div>
+  {% endunless %}
+
+  <div class="container">
+    {{ content }}
+  </div>
+
+</body>
+</html>
